@@ -1,0 +1,30 @@
+.splitScreen {
+    display: flex;
+    flex-direction: row;
+}
+.topPane {
+    width: 20%;
+    height:500px;
+    color:white;
+    background-color: rgb(13, 71, 161);
+}
+.bottomPane {
+    width: 80%;
+}
+.list2{
+    color: white;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.tquestion{
+    width:75%;
+    padding: 0%;
+}
+
+.text{
+    font-size:x-large;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
